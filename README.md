@@ -8,6 +8,7 @@ Search system supporting fundamental principles of document filtration and rangi
 -- C++ project
 
 SearchServer (v.6.3)
+
 -- std used
 
 -- TF-IDF
