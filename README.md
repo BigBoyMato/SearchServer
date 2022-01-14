@@ -7,7 +7,7 @@ README
 
 UML
 
-[![eng](https://img.shields.io/badge/lang-eng-blue.svg)](https://github.com/holodnii/SearchServer/blob/main/SearchServer_UML.svg)
+[![eng](https://img.shields.io/badge/lang-eng-blue.svg)](https://github.com/holodnii/SearchServer/blob/main/UML.svg)
 
 RESEARCH
 
